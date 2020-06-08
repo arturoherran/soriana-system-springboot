@@ -1,0 +1,22 @@
+.container-sm {
+	margin: 2rem auto;
+	width: 50%;	
+}
+
+#consulta {
+    margin-bottom: 32px;
+    margin-top: 32px;
+    border-top-width: 32px;
+    border-bottom-width: 32px;
+    padding-bottom: 32px;
+    padding-top: 0px;
+}
+
+.footer {
+	bottom:0;
+	position:fixed;
+	width: 100%;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-left: auto;
+}
